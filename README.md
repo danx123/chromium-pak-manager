@@ -34,12 +34,13 @@ python-magic-bin (optional)
 
 ---
 📸 Screenshot:
-
-<img width="852" height="683" alt="Screenshot 2025-09-24 132050" src="https://github.com/user-attachments/assets/c7b76084-0652-48b3-b8f9-1394996cfe84" />
-<img width="852" height="681" alt="Screenshot 2025-09-24 132110" src="https://github.com/user-attachments/assets/0765e670-9c5b-494e-a626-8e284a28bdd3" />
-
-
+<img width="859" height="690" alt="Screenshot 2025-12-05 232019" src="https://github.com/user-attachments/assets/84e956ed-767e-4b09-b308-411655dca764" />
+<img width="864" height="694" alt="Screenshot 2025-12-05 233729" src="https://github.com/user-attachments/assets/5bfaefcf-940f-4466-b8bf-71bc1135317a" />
 ---
+
+📝 Changelog v2.0.0
+- Update Framework
+- ReTranslate UI
 
 🔑 Key Features
 Modern GUI with separate tabs for PAK Manager & File Identifier.
